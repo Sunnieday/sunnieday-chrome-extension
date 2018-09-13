@@ -1,6 +1,6 @@
 {
-  "name": "Sunnieday",
-  "version": "1.0",
+  "name": "Sunnieday (Flash Player automatisch inschakelen)",
+  "version": "1.1",
   "description": "Automatisch inschakelen van Flash Player op www.sunnieday.nl",
   "manifest_version": 2,
   "background": {
